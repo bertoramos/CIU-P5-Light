@@ -27,7 +27,7 @@ Para la contrucción de las habitaciones poseemos 3 objetos: las paredes, los te
 Tantos los techos como suelos están representados en la clase Plane, en la que dibujamos un plano creando un PShape a partir de 4 vértices calculados a partir de la posición y dimensiones dadas.
 
 <!-- Imagen plano -->
-![Techo y suelo](plano.png)
+![Techo y suelo](plane.png)
 
 De igual forma, creamos las paredes, pero en este caso, creando los 6 planos correspondientes a los 6 planos de un ortoedro.
 
