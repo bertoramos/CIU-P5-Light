@@ -103,4 +103,5 @@ spotLight(255,255,255,
   - [cadnav.com]()
   - [cgtrader.com]()
   - [free3D.com]()
-- [Blender](https://www.blender.org/) para la modificación de ciertos modelos 3D y [MakeHuman](http://www.makehumancommunity.org/) para la creación de los modelos humanos.
+- [Blender](https://www.blender.org/) para la modificación de ciertos modelos 3D.
+- [MakeHuman](http://www.makehumancommunity.org/) y [Adobe Fuse](https://www.adobe.com/es/products/fuse.html) para la creación de los modelos humanos.
